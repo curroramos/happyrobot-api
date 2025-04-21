@@ -1,0 +1,8 @@
+reference_number,origin,destination,equipment_type,rate,commodity
+REF09460,"Denver, CO","Detroit, MI",Dry Van,868,Automotive Parts
+REF04684,"Dallas, TX","Chicago, IL","Dry Van or Flatbed",570,Agricultural Products
+REF09690,"Detroit, MI","Nashville, TN",Dry Van,1495,Industrial Equipment
+REF09691,"Detroit, MI","Nashville, TN",Dry Van,1600,Agricultural Products
+REF12877,"Atlanta, GA","Orlando, FL",Flatbed,720,Construction Materials
+REF10932,"Phoenix, AZ","Los Angeles, CA",Dry Van,835,Consumer Electronics
+REF20345,"Chicago, IL","Cleveland, OH","Reefer",610,Food Products
