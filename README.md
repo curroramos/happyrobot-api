@@ -1,4 +1,4 @@
-# HappyRobot Load Checker API
+# HappyRobot API
 
 This project implements a REST API for the HappyRobot carrier sales use case. It allows an AI assistant to verify carrier credentials and retrieve load information based on a reference number from a CSV file.
 
